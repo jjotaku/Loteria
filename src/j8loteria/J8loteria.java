@@ -23,7 +23,7 @@ public class J8loteria {
         miVentana.show(); 
         }catch(Exception e){
             
-            System.out.println("No se pudo establecer el aspecto deseado:qwe " + e);
+            System.out.println("No se pudo establecer el aspecto deseado: " + e);
         }
     }
     
