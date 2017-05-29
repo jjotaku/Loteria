@@ -17,13 +17,13 @@ public class J8loteria {
     public static void main(String[] args) {
         // TODO code application logic here
          try{
-            
+            //qweqew
            loteria miVentana = new loteria();
      
         miVentana.show(); 
         }catch(Exception e){
             
-            System.out.println("No se pudo establecer el aspecto deseado: " + e);
+            System.out.println("No se pudo establecer el aspecto deseado:qwe " + e);
         }
     }
     

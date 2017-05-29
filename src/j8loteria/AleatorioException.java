@@ -7,7 +7,7 @@ package j8loteria;
 
 /**
  *
- * @author dam121
+ * @author jj
  */
 public class AleatorioException extends Exception {
     private int n;
